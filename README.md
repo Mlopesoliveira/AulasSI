@@ -1,2 +1,1 @@
-# SI
-Aulas de Segurança da Informação 2023.
+# Aulas de Segurança da Informação 2023.
